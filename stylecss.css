@@ -1,0 +1,65 @@
+.name{color:rgb(216, 7, 52);
+    position:relative;
+    left: 180px;
+    bottom: 90px;
+}
+button { 
+    position: relative;
+    left: 259;
+    top: 0;
+    background-color: rgb(2
+     0, 220, 97);
+    width: 80px;
+    height: 30;
+}
+footer{
+    position: relative; 
+    left: 200px ;
+    padding: auto;
+    
+}
+.pic{ 
+    width: 100;
+border-radius: 50%;
+    position: relative;
+    left: 50;
+    
+}
+.trian{width: 110;
+   border-radius: 30px;
+
+}
+.sideimg{ 
+     width: 100;
+     border-radius: 50%;
+     position: relative;
+     left: 20;
+     top: 10;
+
+}
+.about{
+    position: relative;
+    left: 29;
+}
+.info{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+    font-size: larger;
+    text-align: center;
+    
+}
+.hackpic{
+    width: 100px;
+    float: right;
+    bottom: 200px;
+}
+body{
+    background-color:e9e3e6;
+}
+footer{
+    position: relative;
+    left: 40%;
+}
+.webpic{
+    width: 101%;
+}
